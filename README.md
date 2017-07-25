@@ -1,0 +1,2 @@
+# mfc
+the MFC(Multiple Files Creator) is a simple utility for creating many files, it's mostly used for trying out new commands that need many files. I know a simple script could be made for this, but I don't want to make that every time so I just decided to make this and use this instead. Nothing amazing, but kind of useful for me and it's easier when I have it on a github if I need it quickly somewhere else.
