@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
 #!/bin/bash
 
 read -p "Pick a name for the files: " file_name
