@@ -5,27 +5,27 @@ The MFC_CLI(Multiple Files Creator Command Line Interface) is a simple utility f
 
 ### Linux
 
-'''
+```
 sudo bash Linux/install.sh
-'''
+```
 
 To uninstall it:
 
-'''
+```
 sudo bash uninstall.sh
-'''
+```
 
 ### Termux
 
-'''
+```
 bash Linux/Termux/install.sh
-'''
+```
 
 To uninstall it:
 
-'''
+```
 bash Linux/Termux/install.sh
-'''
+```
 
 It's probably not going to work if you
 are root(type sudo) with this.
