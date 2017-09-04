@@ -5,6 +5,8 @@ The MFC_CLI(Multiple Files Creator Command Line Interface) is a simple utility f
 
 ### Linux
 
+To install it:
+
 ```
 sudo bash Linux/install.sh
 ```
@@ -16,6 +18,8 @@ sudo bash uninstall.sh
 ```
 
 ### Termux
+
+To install it:
 
 ```
 bash Linux/Termux/install.sh
